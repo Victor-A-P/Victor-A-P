@@ -11,30 +11,56 @@
 
 ## About me:
 
+
+
 ### - 🔭 I’m currently working on ...
+
+```
+At the moment I am working in a personal project wich is the development of a an app for mobile devices using iOS with Swift
+```
+<a href="https://developer.apple.com/learn/" target="_blank"><img height="25" src="https://img.shields.io/badge/swift-F54A2A?style=for-thebadge&logo=swift&logoColor=white"></a>
+
+<br>
+
 ### - 🌱 I’m currently learning ...
-  
-  <a href="" target="_blank"><img height="40" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-thebadge&logo=freecodecamp&logoColor=green"></a>
-  
-  <a href="" target="_blank"><img height="40" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-thebadge&logo=godot-engine"></a>
 
-  <a href="#" target="_blank"><img height="40" src="https://img.shields.io/badge/Udemy-A435F0?style=for-thebadge&logo=Udemy&logoColor=white"></a>
+```
+Currently with the help of freecodecamp I am improving my abilities in Js and responsive desing.
+```
+<a href="https://www.freecodecamp.org/learn/" target="_blank"><img height="40" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-thebadge&logo=freecodecamp&logoColor=green"></a>
 
-  <a href="" target="_blank"><img height="40" src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-thebadge&logo=cisco&logoColor=black"></a>  
+<br>
 
- <!--
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-thebadge&logo=amazon-aws&logoColor=white)
+```
+Because of my curiousity I wanted to know about game developement that is when I found about Godot wich is a great tool
+and thanks to the courses of GDquest I am having a blast learning abaut this tool.  
+```
+<a href="https://www.gdquest.com/" target="_blank"><img height="40" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-thebadge&logo=godot-engine"></a>
 
-  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-thebadge&logo=microsoftazure&logoColor=white)
+<br>
 
-  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-thebadge&logo=google-cloud&logoColor=white)
-  <a href="" target="_blank"><img height="40" src=""></a>
--->
+```
+In this is the page that I am learning about Swift and other various courses.  
+```
+<a href="#" target="_blank"><img height="40" src="https://img.shields.io/badge/Udemy-A435F0?style=for-thebadge&logo=Udemy&logoColor=white"></a>
+
+<br>
+
+```
+Right now thanks to a course in Cisco Skills for all I am able to learn about python
+```
+<a href="#" target="_blank"><img height="40" src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-thebadge&logo=cisco&logoColor=black"></a> <a href="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" target="_blank"><img height="25" src="https://img.shields.io/badge/python-3670A0?style=forthebadge&logo=python&logoColor=ffdd54"></a>  
+
+<br>
+
 ### - 👀 I’m interested in ...
   - UX
   - UI
   -  🎨 Arts
   -  🏈
+
+<br><br>
+    
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 [![Victor-A-P's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Victor-A-P&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/Victor-A-P/github-readme-activity-graph)
@@ -69,7 +95,7 @@ graph TD;
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
   </a>
 </p>
@@ -96,7 +122,7 @@ graph TD;
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=java,php,nodejs" />
   </a>
 </p>
@@ -114,7 +140,7 @@ graph TD;
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=redis,mysql" />
   </a>
 </p>
@@ -129,7 +155,7 @@ postgrade, mongodb,gcp,azure,aws
 
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=java,cpp,c,js,py,php,md,regex" />
   </a>
 </p>
@@ -142,7 +168,7 @@ swift, spring, sass, rust, ruby,nodejs, go, flask,angular
 
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea" /><br>
     <img src="https://skillicons.dev/icons?i=git,github,powershell" /><br>
     <img src="https://skillicons.dev/icons?i=unity,godot" /><br>
