@@ -159,9 +159,9 @@ unreal,jenkins,gamemakerstudio, docker, blender,arduino
 
 <div align='center'>
   <br>
-  <a href="httpa://www.linkedin.com/in/victoralejandropachecogarcia" target="_blank"><img height="40" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-thebadge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;                                                                          
-  <a href="mailto:victor.alejandro.ph@gmail.com?Subject=Contacting%20you%20from%20Github:" target="-blank"><img height="40" src="https://img.shields.io/badge/Gmail-c14438?style=for-thebadge&logo=Gmail&logoColor=white&" ></a>&nbsp;&nbsp;                                                                               
-  <a href="mailto:victor.pacheco.ph@outlook.com?Subject=Contacting%20you%20from%20Github:" target="-blank"><img height="40" src="https://img.shields.io/badge/Outlook-0078D4?style=for-thebadge&logo=microsoft-outlook&logoColor=white" ></a>&nbsp;&nbsp;
+  <a href="httpa://www.linkedin.com/in/victoralejandropachecogarcia/" target="_blank"><img height="40" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-thebadge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;                                                                          
+  <a href="mailto:victor.alejandro.ph@gmail.com?Subject=Contacting%20you%20from%20Github:" ><img height="40" src="https://img.shields.io/badge/Gmail-c14438?style=for-thebadge&logo=Gmail&logoColor=white&" ></a>&nbsp;&nbsp;                                                                               
+  <a href="mailto:victor.pacheco.ph@outlook.com?Subject=Contacting%20you%20from%20Github:" ><img height="40" src="https://img.shields.io/badge/Outlook-0078D4?style=for-thebadge&logo=microsoft-outlook&logoColor=white" ></a>&nbsp;&nbsp;
   <br>
   <a href="https://twitter.com/Victor_A_P_G" target="_blank" ><img height="40" src="https://img.shields.io/badge/Twitter-blue?style=for-thebadge&logo=twitter&style=flat-square" ></a>&nbsp;&nbsp;
   <br>
