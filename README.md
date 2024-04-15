@@ -11,7 +11,7 @@
 
 ## About me:
 
-I graduated from a technical school as a technician in Programing and currently I am studying a dregree of ingeniering in informatics and I am searhing for the oportunity to further develop my skills in web application, and in the development and administration of data bases.
+I graduated from a technical school as a technician in Programing and currently I am studying a dregree of ingeniering in informatics and I am searching for the oportunity to further develop my skills in web application, and in the development and administration of data bases.
 
 I am passionate with a continuous for learning at the moment I am learning new things about data science and front-end development focusing in UX and UI.
 
@@ -56,10 +56,13 @@ Right now thanks to a course in Cisco Skills for all I am able to learn about py
 <br>
 
 ### - 👀 I’m interested in ...
-  - UX
-  - UI
-  -  🎨 Arts
-  -  🏈
+    - UX --> I like to look for the new changes that each update of CSS bring us and see how it afects the way a web page it's more accesible to more people
+    - UI --> One of the web desing trends that I am interested is in "Bento Boc"
+    -  🎨 Arts --> I like a various forms of arts such as: 
+                      - Photographie
+                      - Street art (Murals and graffitti)
+                      - Branding  (Logos & typographie)
+    -  🏈 --> And related to sports I am a huge fan of football & have played in different positions, so I am very pasionate about it
 
 <br><br>
     
