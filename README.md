@@ -11,14 +11,18 @@
 
 ## About me:
 
-I graduated from a technical school as a technician in Programing and currently I am studying a dregree of ingeniering in informatics and I am searching for the oportunity to further develop my skills in web application, and in the development and administration of data bases.
+I graduated from a technical school as a technician in Programing and currently I am studying
+a dregree of ingeniering in informatics and I am searching for the oportunity to further develop
+my skills in web application, and in the development and administration of data bases.
 
-I am passionate with a continuous for learning at the moment I am learning new things about data science and front-end development focusing in UX and UI.
+I am passionate with a continuous for learning at the moment I am learning new things about data
+science and front-end development focusing in UX and UI.
 
 ### - 🔭 I’m currently working on ...
 
 ```
-At the moment I am working in a personal project wich is the development of a an app for mobile devices using iOS with Swift
+At the moment I am working in a personal project wich is the development of a an app
+for mobile devices using iOS with Swift
 ```
 <a href="https://developer.apple.com/learn/" target="_blank"><img height="25" src="https://img.shields.io/badge/swift-F54A2A?style=for-thebadge&logo=swift&logoColor=white"></a>
 
@@ -27,15 +31,15 @@ At the moment I am working in a personal project wich is the development of a an
 ### - 🌱 I’m currently learning ...
 
 ```
-Currently with the help of freecodecamp I am improving my abilities in Js and responsive desing.
+Currently with the help of freecodecamp I am improving my abilities in JS and responsive desing.
 ```
 <a href="https://www.freecodecamp.org/learn/" target="_blank"><img height="40" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-thebadge&logo=freecodecamp&logoColor=green"></a>
 
 <br>
 
 ```
-Because of my curiousity I wanted to know about game developement that is when I found about Godot wich is a great tool
-and thanks to the courses of GDquest I am having a blast learning abaut this tool.  
+Because of my curiousity I wanted to know about game developement that is when I found about Godot
+wich is a great tool and thanks to the courses of GDquest I am having a blast learning abaut this tool.  
 ```
 <a href="https://www.gdquest.com/" target="_blank"><img height="40" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-thebadge&logo=godot-engine"></a>
 
