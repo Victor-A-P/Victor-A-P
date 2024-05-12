@@ -60,13 +60,18 @@ Right now thanks to a course in Cisco Skills for all I am able to learn about py
 <br>
 
 ### - 👀 I’m interested in ...
-    - UX --> I like to look for the new changes that each update of CSS bring us and see how it afects the way a web page it's more accesible to more people
-    - UI --> One of the web desing trends that I am interested is in "Bento Boc"
+    - UX --> I like to look for the new changes that each update of CSS bring us and see how it afects the way a web page 
+             it's more accesible to more people.
+             
+    - UI --> One of the web desing trends that I am interested is in "Bento Box".
+    
     -  🎨 Arts --> I like a various forms of arts such as: 
                       - Photographie
                       - Street art (Murals and graffitti)
                       - Branding  (Logos & typographie)
-    -  🏈 --> And related to sports I am a huge fan of football & have played in different positions, so I am very pasionate about it
+            
+    -  🏈 --> And related to sports I am a huge fan of football & have played in different positions, so I am very 
+              pasionate about it
 
 <br><br>
     
