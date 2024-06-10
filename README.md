@@ -21,7 +21,8 @@ science and front-end development focusing in UX and UI.
 ### - 🔭 I’m currently working on ...
 
 ```
-At the moment I am working in a personal project wich is the development of a an app
+At the moment I am working in a personal
+project wich is the development of apps
 for mobile devices using iOS with Swift
 ```
 <a href="https://developer.apple.com/learn/" target="_blank"><img height="25" src="https://img.shields.io/badge/swift-F54A2A?style=for-thebadge&logo=swift&logoColor=white"></a>
@@ -31,7 +32,8 @@ for mobile devices using iOS with Swift
 ### - 🌱 I’m currently learning ...
 
 ```
-Currently with the help of freecodecamp I am improving my abilities in JS and responsive desing.
+Currently with the help of freecodecamp
+I am improving my abilities in JS and responsive desing.
 ```
 <a href="https://www.freecodecamp.org/learn/" target="_blank"><img height="40" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-thebadge&logo=freecodecamp&logoColor=green"></a>
 
@@ -71,7 +73,7 @@ Right now thanks to a course in Cisco Skills for all I am able to learn about py
                       - Branding  (Logos & typographie)
             
     -  🏈 --> And related to sports I am a huge fan of football & have played in different positions, so I am very 
-              pasionate about it
+              pasionate about it.
 
 <br><br>
     
