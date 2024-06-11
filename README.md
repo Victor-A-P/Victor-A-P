@@ -106,13 +106,14 @@ graph TD;
     Front-End-->CSS3;
     Front-End-->JavaScript;
     Front-End-->JSON;
-    Front-End-->TypeScript;
+    <!--- Front-End-->TypeScript; -->
 ```
 
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+      <!--,ts-->
   </a>
 </p>
 
@@ -127,7 +128,7 @@ graph TD;
 ```mermaid
 graph TD;
     Back-End-->Java;
-    Back-End-->NodeJs;
+    <!--Back-End-->NodeJs;-->
     Back-End-->PHP;
     Java-->JavaSE;
     Java-->JavaEE;
