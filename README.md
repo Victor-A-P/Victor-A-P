@@ -106,9 +106,9 @@ graph TD;
     Front-End-->CSS3;
     Front-End-->JavaScript;
     Front-End-->JSON;
-    <!--- Front-End-->TypeScript; -->
+   
 ```
-
+ <!--- Front-End-->TypeScript; -->
 
 <p align="center">
   <a href="#">
@@ -128,7 +128,7 @@ graph TD;
 ```mermaid
 graph TD;
     Back-End-->Java;
-    <!--Back-End-->NodeJs;-->
+   
     Back-End-->PHP;
     Java-->JavaSE;
     Java-->JavaEE;
@@ -136,7 +136,7 @@ graph TD;
     Java-->Spring;
     Java-->SQL;
 ```
-
+ <!--Back-End-->NodeJs;-->
 
 <p align="center">
   <a href="#">
