@@ -105,10 +105,12 @@ graph TD;
     Front-End-->HTML5;
     Front-End-->CSS3;
     Front-End-->JavaScript;
-    Front-End-->JSON;
+   
    
 ```
- <!--- Front-End-->TypeScript; -->
+ <!--- 
+  Front-End JSON;-->
+  <!--Front-End TypeScript; --->
 
 <p align="center">
   <a href="#">
@@ -132,15 +134,17 @@ graph TD;
     Back-End-->PHP;
     Java-->JavaSE;
     Java-->JavaEE;
-    JavaEE-->JavaServlet;
     Java-->Spring;
     Java-->SQL;
 ```
- <!--Back-End-->NodeJs;-->
+
+ <!-- 
+   JavaEE JavaServlet;
+ Back-End NodeJs;-->
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,php,nodejs" />
+    <img src="https://skillicons.dev/icons?i=java,php" />
   </a>
 </p>
 
