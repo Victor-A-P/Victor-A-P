@@ -76,6 +76,12 @@ Right now thanks to a course in Cisco Skills for all I am able to learn about py
               pasionate about it.
 
 <br><br>
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Al3X4NDR0S/30-nites-of-code)  
+  ![@Al3X4NDR0S #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Al3X4NDR0S)
+
+  <br><br>
     
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
