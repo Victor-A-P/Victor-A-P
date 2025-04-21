@@ -76,7 +76,7 @@ Right now thanks to a course in Cisco Skills for all I am able to learn about py
               pasionate about it.
 
 <br><br>
-
+<!--
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@Al3X4NDR0S/30-nites-of-code)  
   ![@Al3X4NDR0S #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Al3X4NDR0S)
@@ -84,11 +84,11 @@ Right now thanks to a course in Cisco Skills for all I am able to learn about py
   <br><br>
     
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
+<!--
 [![Victor-A-P's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Victor-A-P&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/Victor-A-P/github-readme-activity-graph)
 
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
+<!--
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Victor-A-P&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Victor-A-P Dev github stats" /> 
   
@@ -104,6 +104,20 @@ https://github.com/marketplace/actions/generate-snake-game-from-github-contribut
 
 ## 🖥️ My Skills
 
+### iOS Development
+
+```mermaid
+graph TD;
+    iOS-->Swift;
+    iOS-->Objective-C;
+    iOS-->SwiftUI;   
+```
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=apple,swift,obj-c" />
+  </a>
+</p>
+
 ### Front-end
 
 ```mermaid
@@ -111,22 +125,25 @@ graph TD;
     Front-End-->HTML5;
     Front-End-->CSS3;
     Front-End-->JavaScript;
+    Front-End-->TypeScript;
+
+    CSS3-->Bootstrap;
+    CSS3-->Sass
+
+    TypeScript-->Deno
    
    
 ```
- <!--- 
-  Front-End JSON;-->
-  <!--Front-End TypeScript; --->
+ 
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
-      <!--,ts-->
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,deno" />
   </a>
 </p>
 
   <!--
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="48" title="Sass">  
+  
   -->
 
 <br>
@@ -141,16 +158,14 @@ graph TD;
     Java-->JavaSE;
     Java-->JavaEE;
     Java-->Spring;
-    Java-->SQL;
+
 ```
 
- <!-- 
-   JavaEE JavaServlet;
- Back-End NodeJs;-->
+
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,php" />
+    <img src="https://skillicons.dev/icons?i=java,php,spring" />
   </a>
 </p>
 
@@ -160,15 +175,19 @@ graph TD;
 
 ```mermaid
 graph TD;
+    Data-Bases-->Redis;
     Data-Bases-->MySQL;
-    Data-Bases-->Redis
-    Data-Bases
+    Data-Bases-->Postgres
+    Data-Bases-->MongoDB
+    Data-Bases-->Cassandra
+    Data-Bases-->SQLite
+    Data-Bases-->SQLServer
 ```
 
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=redis,mysql" />
+    <img src="https://skillicons.dev/icons?i=redis,mysql,postgres,mongo,cassandra,sqlite" />
   </a>
 </p>
 
@@ -183,7 +202,7 @@ postgrade, mongodb,gcp,azure,aws
 <br>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,cpp,c,js,py,php,md,regex" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,c,py,php,md,regex" />
   </a>
 </p>
 <!--
@@ -197,15 +216,14 @@ swift, spring, sass, rust, ruby,nodejs, go, flask,angular
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea" /><br>
+    <img src="https://skillicons.dev/icons?i=eclipse,rider,deno" /><br>
     <img src="https://skillicons.dev/icons?i=git,github,powershell" /><br>
-    <img src="https://skillicons.dev/icons?i=unity,godot" /><br>
+    <img src="https://skillicons.dev/icons?i=unity,godot,blender" /><br>
     <img src="https://skillicons.dev/icons?i=figma,notion" /><br>
   </a>
 </p>
 <br>
-<!--
-unreal,jenkins,gamemakerstudio, docker, blender,arduino
--->
+
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 ## 📫 How to contact me: 
