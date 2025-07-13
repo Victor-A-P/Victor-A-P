@@ -13,8 +13,7 @@
 
 I graduated from a technical school as a technician in Programing and currently I am studying
 a dregree of ingeniering in informatics and I am searching for the oportunity to further develop
-my skills in web application, and in the development and administration of data bases.
-
+my skills .
 I am passionate with a continuous for learning at the moment I am learning new things about data
 science and front-end development focusing in UX and UI.
 
