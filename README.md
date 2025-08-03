@@ -18,7 +18,6 @@ My main focus right now it is on iOS mobile application development using Swift 
 I have hands-on experience with tools and frameworks such as UIKit, Storyboard, SwiftUI, Core Data, and Swift Data, as well as: <br>
  • MapKit <br>
  • Core Animation <br>
- • ARKit <br>
  • XCTest <br>
  • Audio Toolbox <br>
  • AVFoundation <br>
