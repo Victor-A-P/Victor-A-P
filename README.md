@@ -37,8 +37,9 @@ new knowledge and explore additional development tools and techniques.
 
 
 ```
-Because of my curiousity I wanted to know about game developement that is when I found about Godot
-wich is a great tool and thanks to the courses of GDquest I am having a blast learning abaut this tool.  
+Because of my curiousity I wanted to know about game developement
+that is when I found about Godot wich is a great tool and thanks
+to the courses of GDquest I am having a blast learning abaut this tool.  
 ```
 <a href="https://www.gdquest.com/" target="_blank"><img height="40" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-thebadge&logo=godot-engine"></a>
 
