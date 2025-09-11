@@ -15,9 +15,8 @@ I graduated as a Programming Technician and am currently pursuing a degree in In
 I am seeking opportunities to further develop my skills and I am very passionate about continuous learning.
 
 My main focus right now it is on iOS mobile application development using Swift and Objective-C. <br>
-I have hands-on experience with tools and frameworks such as UIKit, Storyboard, SwiftUI, Core Data, and Swift Data, as well as: <br>
+I have hands-on experience with tools and frameworks such as UIKit, Storyboard as well as: <br>
  • MapKit <br>
- • Core Animation <br>
  • XCTest <br>
  • Audio Toolbox <br>
  • AVFoundation <br>
