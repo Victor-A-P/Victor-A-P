@@ -10,18 +10,18 @@
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 ## About me:
-
-I graduated as a Programming Technician and am currently pursuing a degree in Informatics Engineering. <br>
+```
+I graduated as a Programming Technician and am currently pursuing a degree in Informatics Engineering. 
 I am seeking opportunities to further develop my skills and I am very passionate about continuous learning.
 
-My main focus right now it is on iOS mobile application development using Swift and Objective-C. <br>
-I have hands-on experience with tools and frameworks such as UIKit, Storyboard as well as: <br>
- • MapKit <br>
- • XCTest <br>
- • Audio Toolbox <br>
- • AVFoundation <br>
- • Core Haptics <br>
-
+My main focus right now it is on iOS mobile application development using Swift and Objective-C.
+I have hands-on experience with tools and frameworks such as UIKit, Storyboard as well as: 
+ • MapKit 
+ • XCTest
+ • Audio Toolbox
+ • AVFoundation
+ • Core Haptics
+```
 ### - 🔭 I’m currently working on ...
 
 
