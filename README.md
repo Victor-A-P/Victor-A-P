@@ -11,28 +11,39 @@
 
 ## About me:
 ```
-I graduated as a Programming Technician and am currently pursuing a degree in Informatics Engineering. 
-I am seeking opportunities to further develop my skills and I am very passionate about continuous learning.
+I graduated as a Programming Technician and am currently pursuing a degree in
+Informatics Engineering. I am seeking opportunities to further develop my
+skills and I am very passionate about continuous learning.
 
-My main focus right now it is on iOS mobile application development using Swift and Objective-C.
-I have hands-on experience with tools and frameworks such as UIKit, Storyboard as well as: 
- • MapKit 
- • XCTest
- • Audio Toolbox
- • AVFoundation
- • Core Haptics
+My main focus right now it is on iOS mobile application development using
+Swift and SwiftUI. I have hands-on experience with tools and frameworks
+such as UIKit, Storyboard as well as Objective-C and other apple
+frameworks/libraries such as:
+ 
+• MapKit 
+• XCTest and SwiftTesting
+• Audio Toolbox
+• AVFoundation
+• AR kit
+• Scene kit
+• Reality kit
+• Local Notification
+
 ```
+
+
 ### - 🔭 I’m currently working on ...
 
 
 ```
-I am actively developing personal iOS applications using Swift,
+I am actively developing personal iOS applications using SwiftUI,
 continuously updating and enhancing them as I acquire
 new knowledge and explore additional development tools and techniques.
 ```
 <a href="https://developer.apple.com/learn/" target="_blank"><img height="25" src="https://img.shields.io/badge/swift-F54A2A?style=for-thebadge&logo=swift&logoColor=white"></a>
 
 
+<!--
 
 ```
 Because of my curiousity I wanted to know about game developement
@@ -40,7 +51,7 @@ that is when I found about Godot wich is a great tool and thanks
 to the courses of GDquest I am having a blast learning abaut this tool.  
 ```
 <a href="https://www.gdquest.com/" target="_blank"><img height="40" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-thebadge&logo=godot-engine"></a>
-
+-->
 
 ### - 👀 I’m interested in ...
 
@@ -131,7 +142,6 @@ graph TD;
 graph TD;
     Back-End-->Java;
    
-    Back-End-->PHP;
     Java-->JavaSE;
     Java-->JavaEE;
     Java-->Spring;
@@ -142,7 +152,7 @@ graph TD;
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,php,spring" />
+    <img src="https://skillicons.dev/icons?i=java,spring" />
   </a>
 </p>
 
@@ -152,11 +162,9 @@ graph TD;
 
 ```mermaid
 graph TD;
-    Data-Bases-->Redis;
+   
     Data-Bases-->MySQL;
     Data-Bases-->Postgres
-    Data-Bases-->MongoDB
-    Data-Bases-->Cassandra
     Data-Bases-->SQLite
     Data-Bases-->SQLServer
 ```
@@ -164,7 +172,7 @@ graph TD;
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=redis,mysql,postgres,mongo,cassandra,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
   </a>
 </p>
 
@@ -174,12 +182,12 @@ postgrade, mongodb,gcp,azure,aws
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-## 💼 Lenguagues that I have used
+## 💼 Additional languagues that I have used at some point in my career so far
 
 <br>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,cpp,c,py,php,md,regex" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,php,md,regex" />
   </a>
 </p>
 <!--
